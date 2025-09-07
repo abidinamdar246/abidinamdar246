@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋
+### I'm Abid Inamdar  
 
-<!--
-**abidinamdar246/abidinamdar246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate VLSI & Physical Design Enthusiast from India 🇮🇳 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+- Basic Electronics & Digital Electronics for VLSI  
+- Exploring the world of **Physical Design flows,RTL Design & Synthesis**  
+- Linux,Cadence & Snyopsis Tools 
+- Timing, Power & Area optimization
+- Building mini VLSI design projects & documenting them   
+---
+### 📫 Reach Me At  
+- ✉️ **abidinamdar246@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abid-inamdar-3a4903296/)  
+- 🖥️ [GitHub](https://github.com/abidinamdar246)  
+
+---
+
+⚡ *I enjoy simplifying complex VLSI & Physical Design concepts and sharing them in an easy-to-learn way.*  
