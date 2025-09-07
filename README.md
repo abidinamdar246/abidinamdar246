@@ -1,7 +1,7 @@
 # Hi 👋
 ### I'm Abid Inamdar  
 
-A passionate VLSI & Physical Design Enthusiast from India 🇮🇳 
+A passionate VLSI & Physical Design Enthusiast from India
 
 ---
 
